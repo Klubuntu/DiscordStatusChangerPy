@@ -1,6 +1,6 @@
 # Discord Status Changer Python Library
 
-### Example Usage:
+### Example Usage (check status_example.py):
 ```python
 from status_user import *
 
