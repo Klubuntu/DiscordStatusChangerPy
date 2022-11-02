@@ -6,3 +6,5 @@ from status_user import *
 # changeStatus("your_auth_token", "STATUS_NAME" , "UNICODE_EMOJI", UNIX_TIME)
 changeStatus("your_auth_token", "TEST1" , "💡", 1667428883)
 ```
+
+[All Emoji Unicode List](https://unicode.org/emoji/charts/full-emoji-list.html)
