@@ -5,6 +5,8 @@
 
 ``pip install requests``
 
+Klubuntu/DiscordStatusChangerPy/README.md
+
 ``Copy Discord auth_token:`` [Get Authtoken](https://github.com/Klubuntu/DiscordStatusChangerPy/blob/main/docs/get_authtoken.MD)
 
 ### 💻 Example Usage (check status_example.py):
