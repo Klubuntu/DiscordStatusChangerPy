@@ -1,5 +1,7 @@
 # Discord Status Changer Python Library
 
+#### 🏫 Use only for educational purposes 
+
 ### ✅ Requirements
 ``python3 > 3.6`` : [Download Python Latest Version](https://www.python.org/downloads/)
 
